@@ -1,5 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
 
-Test Item
-te2
-3
-sdfs
+  <channel>
+    <title>Ahmad Test Feed</title>
+    <link>https://github.com/AhmadFahmawi/Feeds</link>
+    <description>Test RSS feed for Power Automate</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Oct 2026 12:00:00 GMT</lastBuildDate>
+
+    <atom:link
+      href="https://raw.githubusercontent.com/AhmadFahmawi/Feeds/refs/heads/main/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+    <item>
+      <title>Test Item 1</title>
+      <link>https://github.com/AhmadFahmawi/Feeds</link>
+      <guid isPermaLink="false">test-item-1</guid>
+      <pubDate>Thu, 22 Oct 2026 10:00:00 GMT</pubDate>
+      <description>This is the first test item.</description>
+    </item>
+
+    <item>
+      <title>Test Item 2</title>
+      <link>https://github.com/AhmadFahmawi/Feeds</link>
+      <guid isPermaLink="false">test-item-2</guid>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+      <description>This is the second test item.</description>
+    </item>
+
+  </channel>
+</rss>
