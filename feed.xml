@@ -36,5 +36,12 @@
       <pubDate>Thu, 22 Oct 2026 12:22:00 GMT</pubDate>
       <description>This is the 3 test item.</description>
     </item>
+         <item>
+      <title>Test Item 4</title>
+      <link>https://github.com/AhmadFahmawi/Feeds</link>
+      <guid isPermaLink="false">test-item-4</guid>
+      <pubDate>Thu, 22 Oct 2026 12:24:00 GMT</pubDate>
+      <description>This is the 4 test item.</description>
+    </item>
   </channel>
 </rss>
